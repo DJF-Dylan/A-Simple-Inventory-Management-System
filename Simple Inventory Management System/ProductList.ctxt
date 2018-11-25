@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ProductList()
+comment1.params=a\ b
+comment1.target=ProductList(int,\ Product)
+comment10.params=name
+comment10.target=void\ changeQty(java.lang.String)
+comment2.params=addName\ addDesc\ addPrice\ addQtyOnHand\ addMinOrderQty
+comment2.target=void\ addProduct(java.lang.String,\ java.lang.String,\ double,\ int,\ int)
+comment3.params=input
+comment3.target=void\ inputProduct(Product)
+comment4.params=i
+comment4.target=Product\ getProduct(int)
+comment5.params=
+comment5.target=void\ displayListOfProduct()
+comment6.params=
+comment6.target=void\ displayAvailableProduct()
+comment7.params=
+comment7.target=boolean\ checkList()
+comment8.params=
+comment8.target=boolean\ checkListFull()
+comment9.params=
+comment9.target=int\ countProduct()
+numComments=11
